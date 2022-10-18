@@ -57,6 +57,7 @@ SCRIPTS DESCRIPTION:
 ~ take 'DEG_{file_name}' file, find: number of genes, number of up/down/down_up genes,
 ~ take 'MM_{file_name}_shLUC_WT' file, find: number of genes, number of hypermethylated/hypomethylated/hyper_hypomethylated genes,
 ~ take 'Merg_{file_name}' file, find: number of genes, number of: hyper_hypo|down, hyper_hypo|up, hyper|down, hyper|up, hypo|down, hypo|up,
+~ save info from every file to .txt named {file_name}_info.txt in 'Arkusze/{file_name} (Ekspr+MM)/Results'
 ------------------------
 
 
